@@ -37,3 +37,5 @@ Questions you can ask:
 “How is it different from Alpaca?”
 
 “Who developed it?”
+
+### Note :- Please download the notebook to check the output. Some issue with the ipynb display in the github.
